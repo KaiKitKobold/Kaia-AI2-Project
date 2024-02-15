@@ -1,6 +1,6 @@
 App is an Note Taking App that uses txt for import, and exports using txt file format, it has the basic functionallity 
 
-Note: Debuging was nearly impossible due to me running into an IOS specific Error, that choulden't be fixed no matter how many solutions I tried. 
+Note: Debuging was nearly impossible due to me running into an IOS specific Error, that choulden't be fixed no matter how many solutions I tried: https://community.appinventor.mit.edu/t/error-from-companion-error-unrecognized-method-irritants-setlistdata-on-ios-but-not-on-emulator/56307
 
 Fuctionallity Includes: 
 An Add button which adds the taks name and content to thier specific list. 
